@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+    font-family: Ink Free;
+    background: linear-gradient(#f4c2c2 0%, blue 150%);
+
+    h1 {
+        font-weight: bolder;
+    }
+    
+
